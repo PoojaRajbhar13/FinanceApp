@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382756015688",
+    "project_id": "expenseapp-ccdae",
+    "storage_bucket": "expenseapp-ccdae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382756015688:android:89c14cb61609c4158f927d",
+        "android_client_info": {
+          "package_name": "com.example.projectz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382756015688-pa763gcepbpcufsm75ubci617iva14g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectz",
+            "certificate_hash": "998de9e0c33cbc292523b824c20a27cda6e87662"
+          }
+        },
+        {
+          "client_id": "382756015688-s9u991u157mik19m2dk89vnieke8hbn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3ao9Bj-GCqoiSnZOqmXspXmmPnYa7mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382756015688-s9u991u157mik19m2dk89vnieke8hbn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
